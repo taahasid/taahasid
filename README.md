@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taahasid
 - 👀 I’m interested in software and web development
-- 🌱 I’m currently learning computer science at Rutgers University
+- 🌱 I’m currently learning ITI & Computer Science at Rutgers University
 - 💞️ I’m looking to collaborate on ...open source projects!
 - 📫 How to reach me ... taahasid01@gmail.com
 
